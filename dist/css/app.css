@@ -18,7 +18,18 @@ html, body {
   transition: all 1s ease;
   animation-direction: normal;
   background-size: cover;
-  z-index: -2; }
+  z-index: -2;
+  color: #fff; }
+  .background_img .bg-text-div {
+    padding-top: 10%;
+    padding-left: 3%; }
+  .background_img .bg-booking-sec {
+    border: 1px solid #000;
+    background-color: #000;
+    padding: 1%; }
+    .background_img .bg-booking-sec p {
+      padding-top: 4%;
+      padding-bottom: 2%; }
 
 .above-nav {
   background-color: #4f4f50;
