@@ -1,0 +1,24 @@
+{
+  "name": "novfloats",
+  "description": "hotel design",
+  "main": "index.js",
+  "authors": [
+    "Tanuj Sanwal <sanwaltanuj@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-beta",
+    "bootstrap-material-design": "^4.0.0-beta.4",
+    "components-font-awesome": "^4.7.0",
+    "jquery-ui": "^1.12.1"
+  }
+}
